@@ -1,0 +1,43 @@
+h1 {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    color: #333;
+  }
+  
+  mat-card {
+    max-width: 400px;
+    margin: 20px auto;
+    padding: 16px;
+  }
+  
+  mat-card-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  
+  mat-card-subtitle {
+    font-size: 1rem;
+    color: #151313;
+  }
+  
+  mat-card-content p {
+    font-size: 1rem;
+    line-height: 1.5;
+    color: #171616;
+  }
+  
+  mat-card-actions {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+
+  mat-card img {
+    max-width: 400px;
+    max-height: 325px;
+    width: auto;
+    height: auto;
+    display: block;
+    margin: 0 auto; /* Centraliza a imagem */
+  }
+  
